@@ -89,6 +89,7 @@ Services Overview:
 <img width="1920" height="1080" alt="Screenshot 2026-10-23 140604" src="https://github.com/user-attachments/assets/ef7f337d-c92d-45bb-a928-78558a75750d" />
 <img width="1920" height="1080" alt="Screenshot 2026-10-23 140212" src="https://github.com/user-attachments/assets/3139d1a6-d89f-4832-a0c0-e10eb108c4c4" />
 <img width="1920" height="1080" alt="Screenshot 2026-10-23 134356" src="https://github.com/user-attachments/assets/eb856ef6-e995-45b2-be18-9b5f04c257a0" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-23 141225" src="https://github.com/user-attachments/assets/1ae913a8-f79b-4e90-b912-09d764d5311f" />
 
 
 
