@@ -76,6 +76,20 @@ Services Overview:
 
 
 ## OUTPUT
+<img width="1920" height="1080" alt="Screenshot 2026-10-23 134244" src="https://github.com/user-attachments/assets/abb7b9b9-bdd4-4586-8b16-b06222935044" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-23 134211" src="https://github.com/user-attachments/assets/ab52bbc7-b696-4866-9fce-b60b0a7c3f3f" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-23 133719" src="https://github.com/user-attachments/assets/8660b2b4-b6bc-413e-8e33-48fcd93f4f81" />
+<img width="1841" height="1078" alt="Screenshot 2026-10-23 133646" src="https://github.com/user-attachments/assets/a215673a-fbeb-40f4-852e-cba6bccad4a3" />
+<img width="1917" height="1076" alt="Screenshot 2026-10-23 133326" src="https://github.com/user-attachments/assets/017529a6-96c6-4643-b1d9-a491124bc68a" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-23 141102" src="https://github.com/user-attachments/assets/a16aad8f-5942-4c7b-83aa-0b7052a44730" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-23 141049" src="https://github.com/user-attachments/assets/16021cd9-4a60-484a-b6c4-1cb527c91803" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-23 141040" src="https://github.com/user-attachments/assets/270bee46-1d63-43d0-8644-6dac0747754d" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-23 140638" src="https://github.com/user-attachments/assets/d278d714-ebee-4895-9f64-33b849f0e0c6" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-23 140616" src="https://github.com/user-attachments/assets/9073bf1a-5c03-4d30-a9ae-897814567206" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-23 140604" src="https://github.com/user-attachments/assets/ef7f337d-c92d-45bb-a928-78558a75750d" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-23 140212" src="https://github.com/user-attachments/assets/3139d1a6-d89f-4832-a0c0-e10eb108c4c4" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-23 134356" src="https://github.com/user-attachments/assets/eb856ef6-e995-45b2-be18-9b5f04c257a0" />
+
 
 
 
